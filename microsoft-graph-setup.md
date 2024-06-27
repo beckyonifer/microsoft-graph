@@ -1,5 +1,12 @@
 # How to call the Microsoft Graph API
 
+Summary:
+- Configure an app in Azure so that you can pull data from an application, without user interaction (appliciation permissions instead of delegated user permissions)
+- Use the Microsoft Graph API to pull data from a SharePoint list
+
+Use Case:
+- You have data stored in SharePoint that you need to access from another system, without user involvement.
+
 Important Links:
 - [Microsoft Graph REST API v1.0 endpoint reference](https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0)
 - [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
